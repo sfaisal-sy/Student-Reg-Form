@@ -1,0 +1,70 @@
+body {
+    background-color: black;
+    color: antiquewhite;
+}
+
+
+.form {
+
+    /* background-color: slategray; */
+    /* margin: 30px auto; */
+    padding: 20PX;
+    
+}   
+
+form{
+
+    background-color: rgb(236, 204, 208);
+    color: black;
+    padding: 20px;
+    border-radius: 10px;
+    width: 400px;
+    margin: 50px auto;
+    height: 70vh;
+   
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+table {
+    height: 60vh;
+    margin: 30px auto;
+}
+
+textarea {
+    width: 100%;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    width: 80px;
+}
+
+
+/*
+h1 {
+    text-align: center;
+    color: black;
+}
+
+table {
+     border: 2px solid; 
+     max-width: 1000px;
+    min-width: 40%;
+    margin: 20px auto;
+    color: black;
+    height: 70vh;
+    
+}
+
+button{
+    background-color: aqua;
+    display: block;
+    margin: 5px auto;
+}
+
+*/
